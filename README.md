@@ -258,7 +258,7 @@ chatbot.reset()
    - Prompt system adapté à SafeCity
 
 2. **Intégration Claude**
-   - Modèle : `claude-3-5-sonnet-20241022`
+   - Modèle : `claude-sonnet-4-5-20250929`
    - Max tokens : 1,000 pour réponses concises
    - Historique conversation limité à derniers 10 messages
    - API Anthropic officielle (client.messages.create)
